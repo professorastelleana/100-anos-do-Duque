@@ -5,13 +5,13 @@ body{
 #titulo-principal {
     text-align: center;
     font-size: 50px;
-    color:#CDF5FD;
-    background-color:#3876BF;
+    color:#D6EFD8;
+    background-color:#1A5319;
 }
 
 .cabecalho {
     padding: 20px;
-    background-color: #E0F4FF;
+    background-color: #508D4E;
     box-sizing: border-box;
     border: 2px solid #000000;
     border-radius: 10px;
