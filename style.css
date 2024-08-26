@@ -2,17 +2,13 @@ body{
     background:#FFFFFF;
 }
 
-            .cabecalho {
-                padding: 20px;
-                background-color: #508D4E;
-                
-            }
-
-#cabecalho { 
-    width: 100%;
+.cabecalho {
+    padding: 20px;
+    background-color: #508D4E;
     box-sizing: border-box;
     border: 2px solid #000000;
-    border-radius: 10px;
+    border-radius: 10px;                
+    width: 100%;   
 }
 
 #titulo-principal {
